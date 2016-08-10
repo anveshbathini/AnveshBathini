@@ -63,4 +63,11 @@ namespace ProjectBidApp.Models
 
     }
 }
+  public string EmpName { get; set; }
+        public int BidAmt { get; set; }
+        public int ProdID { get; set; }
+        public string ProdTitle { get; set; }
+        public string ProdDesc { get; set; }
+        public int NewBid { get; set; }
+       
 >>>>>>> origin/master
