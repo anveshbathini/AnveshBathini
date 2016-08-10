@@ -69,5 +69,5 @@ namespace ProjectBidApp.Models
         public string ProdTitle { get; set; }
         public string ProdDesc { get; set; }
         public int NewBid { get; set; }
-       
+       wegfiwdgficsdgakfcgsdgjk
 >>>>>>> origin/master
