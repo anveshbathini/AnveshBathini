@@ -1,3 +1,33 @@
+<<<<<<< HEAD:.svn/pristine/ce/cedc9c28ca232fb559443ee1b49a21bb0cbe0db3.svn-base
+=======
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace ProjectBidApp.Models
+{
+    public class ProductDets
+    {
+        public int ProdID { get; set; }
+        public string ProdTitle { get; set; }
+        public string ProdDesc { get; set; }
+        public int InitPrice { get; set; }
+        public int BidIncr { get; set; }
+        public string CreatedBy { get; set; }
+        public string EmpName { get; set; }
+        public int BidAmt { get; set; }
+        public int ProdID { get; set; }
+        public string ProdTitle { get; set; }
+        public string ProdDesc { get; set; }
+        public int NewBid { get; set; }
+       
+
+    }
+}
+=======
+>>>>>>> origin/master:ProductDets.cs
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,3 +66,14 @@ namespace ProjectBidApp.Models
 
     }
 }
+<<<<<<< HEAD:.svn/pristine/ce/cedc9c28ca232fb559443ee1b49a21bb0cbe0db3.svn-base
+=======
+  public string EmpName { get; set; }
+        public int BidAmt { get; set; }
+        public int ProdID { get; set; }
+        public string ProdTitle { get; set; }
+        public string ProdDesc { get; set; }
+        public int NewBid { get; set; }
+       wegfiwdgficsdgakfcgsdgjk
+>>>>>>> origin/master
+>>>>>>> origin/master:ProductDets.cs
